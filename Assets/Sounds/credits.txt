@@ -1,0 +1,61 @@
+links all in trello
+[not req] = cc0, else cc3
+
+unit damage:
+hit.flac independent.nu [not req]
+
+tower attacks:
+crossbow_repeater_atk.wav qubodup opengameart.org
+wizard_ice_atk.wav spookymodem opengameart.org
+knight_atk.ogg jobro freesound.org
+jail_atk.mp3 Marcelo Fernandez https://www.marcelofernandezmusic.com
+
+spell cast:
+spell_cast.ogg Timbre freesound.org
+
+buttons:
+button_sfx.wav kenney.nl [not req]
+button_coin.ogg PhilSavlem freesounds.org [not req]
+
+music:
+level_lose.wav Oiboo opengameart.org [not req]
+victory.wav celestialghost8 opengameart.org [not req]
+victory2.wav Matthew Pablo matthewpablo.com
+
+main_menu.mp3 Of Far Different Nature https://fardifferent.carrd.co
+main_menu_v2.ogg Alexandr Zhelanov https://soundcloud.com/alexandr-zhelanov
+map.mp3 Bobjt http://bobjt.com
+level.ogg Miguel Herrero
+end_screen.mp3 cynicmusic http://pixelsphere.org [not req]
+
+map_v2.wav snapdragons opengameart.org
+
+---
+music in the final game:
+
+music -
+main menu: main_menu
+levels: level
+win: victory2
+lose: level_lose_loud
+end: end_screen
+
+sfx -
+units: button_coin
+crossbow_repeater_atk
+jail_atk_v2
+knight_atk_3
+wizard_ice_atk_2_loud
+---
+
+Credits
+
+All music is royalty free and courtesy of:
+- Of Far Different Nature, https://fardifferent.carrd.co
+- Bobjt, http://bobjt.com
+- Miguel Herrero
+- Matthew Pablo, matthewpablo.com
+- cynicmusic, http://pixelsphere.org
+- kenney, kenney.nl
+- PhilSavlem of freesounds.org
+- Oiboo, qubodup & spookymodem of opengameart.org
